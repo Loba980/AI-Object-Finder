@@ -1,0 +1,20 @@
+body{
+    background-size:cover;
+}
+
+.header{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+.note{
+    color: white;
+    font-size: 16px;
+}
+
+canvas{
+    border: 2px solid white;
+    border-radius: white;
+    box-shadow: 5px 5px 5px gray;
+}
